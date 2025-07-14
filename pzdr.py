@@ -1,0 +1,1 @@
+specjalne pozdrowienia
