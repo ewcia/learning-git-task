@@ -10,6 +10,6 @@ for sklep, rzeczy in shopping_dict.items():
     print(f"Idę do {sklep.capitalize()} i kupuję tam {capitalized}")
 
 
-print(f"W sumie kupuję {ilosc_rzeczy} produktów")
+print(f"W sumie kupuję {ilosc_rzeczy} produktów bum")
 
 
